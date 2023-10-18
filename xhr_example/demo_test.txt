@@ -1,0 +1,1 @@
+this text from demo_test and has gotten by jquery ajax method
